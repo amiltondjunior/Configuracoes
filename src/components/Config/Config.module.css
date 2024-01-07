@@ -1,0 +1,137 @@
+.root {
+  position: relative;
+  width: 375px;
+  height: 667px;
+  align-items: flex-start;
+  background-color: #f1f1f1;
+  overflow: hidden;
+}
+.rectangle2 {
+  position: absolute;
+  left: 0;
+  top: 602px;
+  width: 375px;
+  height: 65px;
+  background-color: #fff;
+}
+._2639919CartShopping4 {
+  position: absolute;
+  left: 312px;
+  top: 619px;
+  width: 32px;
+  height: 32px;
+  background-image:/* webpackIgnore: true */ url('/assets/_2639919CartShopping4.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+._2639919CartShopping3 {
+  position: absolute;
+  left: 219px;
+  top: 619px;
+  width: 32px;
+  height: 32px;
+  background-image:/* webpackIgnore: true */ url('/assets/_2639919CartShopping3.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+._2639919CartShopping2 {
+  position: absolute;
+  left: 126px;
+  top: 619px;
+  width: 32px;
+  height: 32px;
+  background-image:/* webpackIgnore: true */ url('/assets/_2639919CartShopping2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+._2639919CartShopping1 {
+  position: absolute;
+  left: 33px;
+  top: 619px;
+  width: 32px;
+  height: 32px;
+  background-image:/* webpackIgnore: true */ url('/assets/_2639919CartShopping1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle4 {
+  position: absolute;
+  left: 273px;
+  top: 602px;
+  width: 102px;
+  height: 5px;
+  background-color: #fb0;
+}
+.rectangle1 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 375px;
+  height: 46px;
+  background-color: #fb0;
+}
+._352020ArrowBack2 {
+  position: absolute;
+  left: 324px;
+  top: 7px;
+  width: 32px;
+  height: 32px;
+  background-image:/* webpackIgnore: true */ url('/assets/_352020ArrowBack2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+._352020ArrowBack1 {
+  position: absolute;
+  left: 8px;
+  top: 7px;
+  width: 32px;
+  height: 32px;
+  background-image:/* webpackIgnore: true */ url('/assets/_352020ArrowBack1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.configuracoes {
+  color: #000;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 129px;
+  top: 13px;
+  width: 118px;
+  height: min-content;
+  flex-direction: column;
+}
+.servidor {
+  color: #ababab;
+  font-size: 18px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 154px;
+  top: 101px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.line2 {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 30px;
+  top: 159px;
+  width: 316.0016px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #03009f;
+  margin-bottom: -1px;
+  transform: matrix(1, 0.0033, -0.0033, 1, 0, 0);
+}
